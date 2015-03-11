@@ -2,7 +2,7 @@ global class WS_Work_Order{
 
 
         
-	// WorkOrder Exposed
+	
      global class WorkOrder{
      
             webservice ID         workOrderbFOID; 
